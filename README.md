@@ -40,11 +40,14 @@ To get the visualization for ethnicity please run:
 ```bash
 $ python main.py
 ```
-
 To get the visualization for gender please run:
 ```bash
 $ python ActivationMapping_Gender.py
 ```
 
+To get the fairness metric, please run:
+```bash
+$ python global_threshold.py
+```
 ## Citation
 Please cite our paper if the code is helpful to your research.
